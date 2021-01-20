@@ -1,0 +1,5 @@
+to run the project,:
+Step 1: run StatisticsServer
+Step 2: run QueryClient
+
+done
